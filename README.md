@@ -1,7 +1,9 @@
 AOE2DE EDA
 ==============================
 
-An exploratory Data Analysis of Age of
+An exploratory Data Analysis of Age of Empires, this is a personal project for practicing my knowledge as a Data Analyst and for reforcing concepts and programming.
+
+This is the link for the Dataset: https://www.kaggle.com/datasets/jerkeeler/age-of-empires-ii-de-match-data
 
 Project Organization
 ------------
